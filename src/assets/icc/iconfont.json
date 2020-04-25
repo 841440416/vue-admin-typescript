@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "562651",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "4344866",
+      "name": "业务受理",
+      "font_class": "yewushouli",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "4878208",
+      "name": "业务管理",
+      "font_class": "business-management",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    }
+  ]
+}
